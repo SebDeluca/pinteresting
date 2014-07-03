@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample app for
+Making my sample app, Pinteresting, via
 [*One Month Rails*] (http://onemonthrails.com)
 
 by Sebastian DeLuca
